@@ -1,6 +1,6 @@
 # API Test BDD
 
-This is a demo for technical assignment using <b>Cucumber</b>, <b>Serenity</b> and <b>Rest-assured</b> 
+This is a demo for technical assignment using <b>Java</b>, <b>Cucumber</b>, <b>Serenity</b> and <b>Rest-assured</b> 
 
 ### To deploy the poject<br>
 * Download the poject, import it to you IDE as a maven project and run `mvn clean install` with your IDE.<br>
@@ -23,4 +23,5 @@ Serenity<br>
 Rest-assured<br>
 Junit<br>
 
+### please use java 8 or higher version
 
